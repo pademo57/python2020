@@ -1,3 +1,5 @@
+# Learn Python with John Elder
+#
 # Clear the Git Bash Terminal screen
 import os
 os.system('clear')
